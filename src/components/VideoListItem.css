@@ -1,0 +1,11 @@
+.video-item {
+  cursor: pointer;
+}
+
+.video-item:hover {
+  background-color: #eee;
+}
+
+.video-item__img {
+  max-width: 64px;
+}
